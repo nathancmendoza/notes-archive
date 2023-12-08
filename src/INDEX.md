@@ -40,3 +40,12 @@
 | [IN4MATX 191A](https://notes.ncm.dev/uci/winter-2023/in4matx-191a/syllabus.html) | Winter 2023 | [University of California, Irvine](https://www.uci.edu) | Complete |
 | [IN4MATX 102](https://notes.ncm.dev/uci/spring-2023/in4matx-102/syllabus.html) | Spring 2023 | [University of California, Irvine](https://www.uci.edu) | Complete |
 | [IN4MATX 191B](https://notes.ncm.dev/uci/spring-2023/in4matx-191b/syllabus.html) | Spring 2023 | [University of California, Irvine](https://www.uci.edu) | Complete |
+
+## Information Technology Notebooks
+
+| Notebook | Course Provider | Status |
+|:--------:|:---------------:|:------:|
+| [LFEL1002](https://notes.ncm.dev/itnotes/lfel1002/syllabus.html) | [Linux Foundation](https://www.linuxfoundation.org) | Complete |
+| [LFS141X](https://notes.ncm.dev/itnotes/lfs141x/syllabus.html) | [edX](https://www.edx.org) | In Progress |
+| [LFS158X](https://notes.ncm.dev/itnotes/lfs158x/syllabus.html) | [edX](https://www.edx.org) | In Progress |
+
