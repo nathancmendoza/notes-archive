@@ -46,6 +46,8 @@
 | Notebook | Course Provider | Status |
 |:--------:|:---------------:|:------:|
 | [LFEL1002](https://notes.ncm.dev/itnotes/lfel1002/syllabus.html) | [Linux Foundation](https://www.linuxfoundation.org) | Complete |
-| [LFS141X](https://notes.ncm.dev/itnotes/lfs141x/syllabus.html) | [edX](https://www.edx.org) | In Progress |
-| [LFS158X](https://notes.ncm.dev/itnotes/lfs158x/syllabus.html) | [edX](https://www.edx.org) | In Progress |
+| [LFS141X](https://notes.ncm.dev/itnotes/lfs141x/syllabus.html) | [edX](https://www.edx.org) | Complete |
+| [LFS158X](https://notes.ncm.dev/itnotes/lfs158x/syllabus.html) | [edX](https://www.edx.org) | Complete |
+| [LFS145](https://notes.ncm.dev/itnotes/lfs145/syllabus.html) | [Linux Foundation](https://www.linuxfoundation.org) | Complete |
+
 
